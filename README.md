@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy TU-NOMBRE 👋</h1>
+<h1 align="center">¡Hola! Soy Angel luis Rojas Lugo 👋</h1>
 
 <p align="center">
   <b>Estudiante en aprendizaje activo</b> · Desarrollo .NET Full Stack · Azure · Bases de Datos · Auditoría de Sistemas
@@ -84,14 +84,6 @@
 
 ---
 ---
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🤝 Conectemos
