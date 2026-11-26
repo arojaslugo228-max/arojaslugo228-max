@@ -15,10 +15,10 @@
 
 - 🎓 Estudiante en **aprendizaje activo**: aprendo construyendo, rompiendo y mejorando proyectos.
 - 💻 Me apasiona el desarrollo **full stack con .NET**: APIs robustas con C# e interfaces modernas con **React y Bootstrap**.
-- 🎨 Actualmente estoy viendo **Bootstrap en clase** y lo aplico para crear interfaces responsivas y consistentes.
+- 🎨 Actualmente estoy trabajando con **Bootstrap** y lo aplico para crear interfaces responsivas y consistentes.
 - ☁️ Me estoy adentrando en **Microsoft Azure** para desplegar y gestionar aplicaciones .NET en la nube.
-- 🏗️ Me interesa la **arquitectura de software**: separar responsabilidades, escribir código mantenible y escalable.
-- 🗄️ Disfruto el diseño y la optimización de **bases de datos en SQL Server** y **Azure SQL**.
+- 🏗️ Me interesa la **arquitectura de software**: separar responsabilidades, construir código mantenible y escalable.
+- 🗄️ Disfruto el diseño y la optimización de **bases de datos en SQL Server**
 - 🔍 Combino el desarrollo con la **auditoría de sistemas**: control, trazabilidad, seguridad y buenas prácticas.
 
 ---
